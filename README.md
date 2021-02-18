@@ -10,3 +10,5 @@ where I live to a function of a line with a slope by the function:
 y=0.29x-7.3
 
 the I assume the same temp. in one minute and add the microseconds of deviation for that minute, and so on.
+
+The temp is read by a LM35(double-side taped) sensor on top of the arduino 16MHz crystal, oddly the sensor outputs in Fº???(bought on ebay)
